@@ -7,7 +7,7 @@
 
 ```java
 💬 echo "Eat, Sleep & Sleep" 
-🌱 echo "I am 2nd year COOP student at Ryerson University!"
+🌱 echo "I am 2nd year COOP Computer Science student at Ryerson University!"
 😄 Pronouns = "She/Her"
 ⚡ myExperiences = "Software Development"
 🔭 currentProject = "Building personal protfolio" 
