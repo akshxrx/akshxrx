@@ -1,5 +1,5 @@
 # Hello, nice to meet you 👋✨ 
-[![banner](https://user-images.githubusercontent.com/70068533/151483864-0c304755-a12a-4cb0-9fe5-38b0db15e95c.gif)](https://akshxrx.github.io/StudyorRelax/)
+[![banner](https://user-images.githubusercontent.com/70068533/151483864-0c304755-a12a-4cb0-9fe5-38b0db15e95c.gif)](https://akshxrx.github.io/web/)
 
 ** **
 
