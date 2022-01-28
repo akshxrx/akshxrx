@@ -1,7 +1,8 @@
 # Hello, nice to meet you 👋✨
 ![banner](https://user-images.githubusercontent.com/70068533/151483864-0c304755-a12a-4cb0-9fe5-38b0db15e95c.gif)
 
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966](https://user-images.githubusercontent.com/70068533/151486963-62c51b7f-d32a-495f-a1b5-8b794ebe5b39.gif)
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966](https://user-images.githubusercontent.com/70068533/151486963-62c51b7f-d32a-495f-a1b5-8b794ebe5b39.gif) ## A little about me!   [t](https://user-images.githubusercontent.com/70068533/151486793-0c1e6038-a586-4485-a5cf-6ce99b11965d.gif)
+
 ```
 💬 echo "Eat, Sleep & Sleep" 
 🌱 echo "I am 2nd year COOP student at Ryerson University!"
@@ -9,7 +10,6 @@
 ⚡ myExperiences = "Software Development"
 🔭 currentProject = "Building personal protfolio" 
 ```
-![t](https://user-images.githubusercontent.com/70068533/151486793-0c1e6038-a586-4485-a5cf-6ce99b11965d.gif)
 Linkedin = https://www.linkedin.com/in/akshara-debnath/
 
 
