@@ -3,7 +3,7 @@
 
 ** **
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little about me! 
+## <img src="https://user-images.githubusercontent.com/70068533/151487809-05c3d7f3-9c2f-483e-9926-d0537d095072.gif" width="50"> A little about me 
 
 ```java
 💬 echo "Eat, Sleep & Sleep" 
