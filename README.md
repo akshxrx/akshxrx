@@ -1,7 +1,9 @@
 # Hello, nice to meet you 👋✨
 ![banner](https://user-images.githubusercontent.com/70068533/151483864-0c304755-a12a-4cb0-9fe5-38b0db15e95c.gif)
 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little about me! 
+** **
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me! 
 
 [t](https://user-images.githubusercontent.com/70068533/151486793-0c1e6038-a586-4485-a5cf-6ce99b11965d.gif)
 
