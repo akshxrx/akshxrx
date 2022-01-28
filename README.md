@@ -4,7 +4,7 @@
 
 ** **
 
-## <img src="https://user-images.githubusercontent.com/70068533/151487809-05c3d7f3-9c2f-483e-9926-d0537d095072.gif" width="40"> A little about me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+## <img src="https://user-images.githubusercontent.com/70068533/151487809-05c3d7f3-9c2f-483e-9926-d0537d095072.gif" width="40"> A little about me <img src="https://akshxrx.github.io/StudyorRelax/" width="40"> 
 
 ```java
 💬 echo "Eat, Sleep & Sleep" 
