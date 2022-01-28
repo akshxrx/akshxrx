@@ -3,11 +3,9 @@
 
 ** **
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me! 
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little about me! 
 
-[t](https://user-images.githubusercontent.com/70068533/151486793-0c1e6038-a586-4485-a5cf-6ce99b11965d.gif)
-
-```bash
+```java
 💬 echo "Eat, Sleep & Sleep" 
 🌱 echo "I am 2nd year COOP student at Ryerson University!"
 😄 Pronouns = "She/Her"
