@@ -3,13 +3,12 @@
 
 ```
 echo "Eat, Sleep & Sleep" 
-![t](https://user-images.githubusercontent.com/70068533/151486793-0c1e6038-a586-4485-a5cf-6ce99b11965d.gif)
 echo "I am 2nd year COOP student at Ryerson University!"
 😄 Pronouns = "She/Her"
 myExperiences = "Software Development"
 ⚡currentProject = "Building personal protfolio" 
 ```
-
+![t](https://user-images.githubusercontent.com/70068533/151486793-0c1e6038-a586-4485-a5cf-6ce99b11965d.gif)
 Linkedin = https://www.linkedin.com/in/akshara-debnath/
 
 <!--
