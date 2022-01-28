@@ -31,4 +31,6 @@
 
 ** **
 
-## Let's connect and chat! <a href="https://www.linkedin.com/in/akshara-debnath/"><img src=https://user-images.githubusercontent.com/70068533/151489070-3cfde31d-4659-4071-a5aa-2d83be5301c5.png width="20"></a> #### ❤️ Star repositories you find interesting! #### ⭐️ From [Akshara Debnath](https://github.com/akshxrx)
+## Let's connect and chat! <a href="https://www.linkedin.com/in/akshara-debnath/"><img src=https://user-images.githubusercontent.com/70068533/151489070-3cfde31d-4659-4071-a5aa-2d83be5301c5.png width="20"></a> 
+❤️ Star repositories you find interesting!
+⭐️ From [Akshara Debnath](https://github.com/akshxrx)
