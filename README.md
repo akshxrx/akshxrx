@@ -1,4 +1,5 @@
-# Hello, nice to meet you 👋✨
+# Hello, nice to meet you 👋✨ 
+
 ![banner](https://user-images.githubusercontent.com/70068533/151483864-0c304755-a12a-4cb0-9fe5-38b0db15e95c.gif)
 
 ** **
@@ -30,4 +31,4 @@
 
 ** **
 
-## Let's connect and chat! <a href="https://www.linkedin.com/in/akshara-debnath/"><img src=https://user-images.githubusercontent.com/70068533/151489070-3cfde31d-4659-4071-a5aa-2d83be5301c5.png width="20"></a>
+## Let's connect and chat! <a href="https://www.linkedin.com/in/akshara-debnath/"><img src=https://user-images.githubusercontent.com/70068533/151489070-3cfde31d-4659-4071-a5aa-2d83be5301c5.png width="20"></a> #### ❤️ Star repositories you find interesting! #### ⭐️ From [Akshara Debnath](https://github.com/akshxrx)
