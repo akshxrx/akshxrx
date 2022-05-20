@@ -17,7 +17,7 @@
 
 ** **
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Languages, Frameworks & Technologies
+## <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="40"> Languages, Frameworks & Technologies
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![HTML](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
@@ -32,6 +32,24 @@
 
 ** **
 
-## Let's connect and chat! <a href="https://www.linkedin.com/in/akshara-debnath/"><img src=https://user-images.githubusercontent.com/70068533/151489070-3cfde31d-4659-4071-a5aa-2d83be5301c5.png width="20"></a> 
-⭐️ Star repositories you find interesting!
-❤️ From [Akshara Debnath](https://github.com/akshxrx)
+<h2> Let's connect and chat! 
+  <a href="https://www.linkedin.com/in/akshara-debnath/">
+    <img align="left" alt="Akshara Debnath | Linkedin" width="26px" src="https://user-images.githubusercontent.com/70068533/169617030-17dcfa7e-43e6-4d1c-90d5-e560d5bec3c0.png" />
+  </a>
+  <a href="">
+    <img align="left" alt="Akshara Debnath | Website" width="26px" src="https://user-images.githubusercontent.com/70068533/169616898-5905be0c-419b-4ecd-98ce-c6c99bc193bb.png"/>
+  </a>
+  <a href="mailto:akshara.debnath@ryerson.ca">
+    <img align="left" alt="Akshara Debnath | Gmail" width="29px" src="https://user-images.githubusercontent.com/70068533/169617204-43076544-6ff3-4d57-b980-1c151a6f9f05.png" />
+  </a>
+</h2> 
+  
+  ⭐️ Star repositories you find interesting!
+  **❤️ From [Akshara Debnath](https://github.com/akshxrx)**
+  
+** ** 
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=akshxrx&show_icons=true&title_color=fff&icon_color=ffffff&text_color=ffffff&bg_color=000000&border_color=000000)
+
+** **
+
