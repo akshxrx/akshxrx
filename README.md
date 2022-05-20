@@ -47,9 +47,4 @@
   ⭐️ Star repositories you find interesting!
   **❤️ From [Akshara Debnath](https://github.com/akshxrx)**
   
-** ** 
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=akshxrx&show_icons=true&title_color=fff&icon_color=ffffff&text_color=ffffff&bg_color=000000&border_color=000000)
-
-** **
 
