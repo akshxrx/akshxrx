@@ -8,11 +8,11 @@
 
 ```java
 💬 echo "Eat, Sleep & Sleep" 
-🌱 echo "I am 2nd year COOP Computer Science student at Toronto Metropolitan University!"
+🌱 echo "I am 3rd year COOP Computer Science student at Toronto Metropolitan University!"
 👀 // Previously know as Ryerson University 
 😄 Pronouns = "She/Her"
 ⚡ myExperiences = "Software Development"
-🔭 currentProject = "Building personal protfolio" 
+🔭 currentProject = "deciding..." 
 ```
 
 ** **
