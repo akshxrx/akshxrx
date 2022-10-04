@@ -12,7 +12,7 @@
 👀 // Previously know as Ryerson University 
 😄 Pronouns = "She/Her"
 ⚡ myExperiences = "Software Development"
-🔭 currentProject = "deciding..." 
+🔭 currentProject = "learning more about machine learning" 
 ```
 
 ** **
