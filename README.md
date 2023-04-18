@@ -8,9 +8,7 @@
 
 ```java
 💬 echo "Eat, Sleep & Sleep" 
-🌱 echo "I am 3rd year COOP Computer Science student at Toronto Metropolitan University!"
-👀 // Previously know as Ryerson University 
-😄 Pronouns = "She/Her"
+🌱 echo "I am 3rd year COOP Computer Science student at Toronto Met :D"
 ⚡ myExperiences = "Software Development"
 🔭 currentProject = "learning more about machine learning" 
 ```
