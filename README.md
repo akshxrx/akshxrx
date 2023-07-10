@@ -1,16 +1,24 @@
-# Hello, nice to meet you 👋✨ I am 🌿
+# Hello, nice to meet you
 
-![banner](https://user-images.githubusercontent.com/70068533/151483864-0c304755-a12a-4cb0-9fe5-38b0db15e95c.gif)
+![banner](https://github.com/akshxrx/akshxrx/assets/70068533/5224edfe-59fd-4f97-8880-9b1a1b1232a1)
 
 ** **
 
 ## <img src="https://user-images.githubusercontent.com/70068533/151487809-05c3d7f3-9c2f-483e-9926-d0537d095072.gif" width="40"> A little about me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
-```java
-💬 echo "Eat, Sleep & Sleep" 
-🌱 echo "I am 4th-year COOP Computer Science student at Toronto Met :D"
-⚡ myExperiences = "Software Development"
-🔭 currentProject = "learning more about machine learning" 
+```c++
+#include <iostream>
+#include <string>
+
+int main() {
+    std::cout << "🍃 I am a 4th-year COOP Computer Science student at Toronto Met :D" << std::endl;
+    std::cout << "✨ My experiences range from full-stack development to research" << std::endl;
+
+    std::string hobbies = "⚡ Growing plants, creating applications, and teaching";
+    std::string currentProject = "🔭 Trying to create new applications with ML knowledge";
+
+    return 0;
+}
 ```
 
 ** **
