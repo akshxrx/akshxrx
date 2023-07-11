@@ -40,13 +40,13 @@ int main() {
 
 <h2> Let's connect and chat! 
   <a href="https://www.linkedin.com/in/akshara-debnath/">
-    <img align="left" alt="Akshara Debnath | Linkedin" width="26px" src="https://user-images.githubusercontent.com/70068533/169617030-17dcfa7e-43e6-4d1c-90d5-e560d5bec3c0.png" />
+    <img align="left" width="45px" alt="Akshara Debnath | Linkedin" src="https://github.com/akshxrx/akshxrx/assets/70068533/6f640854-c3d4-434f-bef2-cc1d00b54762" />
   </a>
   <a href="">
-    <img align="left" alt="Akshara Debnath | Website" width="26px" src="https://user-images.githubusercontent.com/70068533/169616898-5905be0c-419b-4ecd-98ce-c6c99bc193bb.png"/>
+    <img align="left" alt="Akshara Debnath | Website" width="39px" src="https://github.com/akshxrx/akshxrx/assets/70068533/ac1754f1-5d3d-48e0-9e42-8e5e012f46eb" />
   </a>
   <a href="mailto:akshara.debnath@ryerson.ca">
-    <img align="left" alt="Akshara Debnath | Gmail" width="29px" src="https://user-images.githubusercontent.com/70068533/169617204-43076544-6ff3-4d57-b980-1c151a6f9f05.png" />
+    <img align="left" alt="Akshara Debnath | Gmail" width="41px" src="https://github.com/akshxrx/akshxrx/assets/70068533/0f6055f0-911b-499d-b297-90f606a64de6" />
   </a>
 </h2> 
   
