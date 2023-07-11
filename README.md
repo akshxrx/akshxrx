@@ -49,6 +49,7 @@ int main() {
     <img align="left" alt="Akshara Debnath | Gmail" width="41px" src="https://github.com/akshxrx/akshxrx/assets/70068533/0f6055f0-911b-499d-b297-90f606a64de6" />
   </a>
 </h2> 
+</br>
   
   ⭐️ Star repositories you find interesting!
   **❤️ From [Akshara Debnath](https://github.com/akshxrx)**
